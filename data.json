@@ -1,0 +1,196 @@
+[
+    {
+      "id": 1,
+      "name": "McDonalds",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      "imageUrl": "https://images.unsplash.com/photo-1602400236316-f5e3b6d2314c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5070&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Starbucks",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      "imageUrl": "https://images.unsplash.com/photo-1592321675774-3de57f3ee0dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHN0YXJidWNrc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 3,
+      
+      "name": "Chick-fil-A",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://images.unsplash.com/photo-1558883188-817ab9ecf395?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Q2hpY2slMjBmaWwlMjBBfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    
+    {
+      "id": 5,
+      
+      "name": "Wendy's",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/7A97/production/_118438313_wendys.jpg"
+    },
+    {
+      "id": 6,
+      
+      "name": "Burger King",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/106936180-1630511993739-gettyimages-1234486065-PWeaver-Milton-210804-04.jpeg?v=1630512088"
+    },
+    {
+      "id": 7,
+      
+      "name": "Dunkin'",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.boston.com/wp-content/uploads/2021/11/Dunkin-holiday-drinks-61815ecc2952c.jpg"
+    },
+    {
+      "id": 8,
+      
+      "name": "Subway",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://cdn.britannica.com/08/193908-050-66767D57/view-Subway-restaurant-Bangkok-Thailand.jpg"
+    },
+    {
+      "id": 9,
+      
+      "name": "Domino's",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/fe/c3/86/domino-s-pizza.jpg"
+    },
+    {
+      "id": 10,
+      
+      "name": "Chipotle Mexican Grill",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.investopedia.com/thmb/2sLc9U9RNVeFblgbDxh_uL1tnC4=/680x440/filters:fill(auto,1)/shutterstock_186861896-5bfc33c646e0fb00517d7538.jpg"
+    },
+    {
+      "id": 11,
+      
+      "name": "Sonic Drive-In",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-07/SonicEXT.jpg?itok=X6-nYuXg"
+    },
+    
+    {
+      "id": 13,
+      
+      "name": "Panera Bread",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAONmid71xguDSR8lHs4QWYNjsauHfYgBTEQ&usqp=CAU"
+    },
+    {
+      "id": 14,
+      
+      "name": "KFC",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2020/03/kfc-sign-GettyImages-921240630.jpg"
+    },
+    {
+      "id": 15,
+      
+      "name": "Popeyes Louisiana Kitchen",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.godairyfree.org/wp-content/uploads/2009/12/fast-food-popeyes.jpg"
+    },
+    {
+      "id": 16,
+      
+      "name": "Arby's",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://media-exp1.licdn.com/dms/image/C561BAQFOQyq-un_zNw/company-background_10000/0/1519796443509?e=2159024400&v=beta&t=0Olg06sblnfDhRfh8DRNvGDJFxZrO2072lkQHhvV5N8"
+    },
+    {
+      "id": 17,
+      
+      "name": "Dairy Queen",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/story/blizzard-incentives.jpg?itok=9R-RrxC9"
+    },
+    {
+      "id": 18,
+      
+      "name": "Little Caesars",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.masslive.com/resizer/M1NIHyzJjJdMcvw_LZt7jSwXFc8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2JI5P5VPDBEQNJR5CAYRC5VCMU.jpg"
+    },
+    {
+      "id": 19,
+      
+      "name": "Panda Express",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.seriouseats.com/thmb/n1EmSyrh7pEal-eSsXEYzuKyDqg=/1500x844/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2014__05__20140514-panda-express-sign-2e429c96c13746fb8d648e1b8eca9c80.jpg"
+    },
+    {
+      "id": 20,
+      
+      "name": "Jack in the Box",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/story/jack-box-expects-product-innovation-drive-growth.jpg?itok=tj3dRL1G"
+    },
+    
+    {
+      "id": 22,
+      
+      "name": "Papa John's",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://fox59.com/wp-content/uploads/sites/21/2021/11/PapaJOhnsGettyImages-1044350104.jpg?w=1280"
+    },
+    {
+      "id": 23,
+      
+      "name": "Buffalo Wild Wings",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.mashed.com/img/gallery/scandals-that-buffalo-wild-wings-can-never-live-down/intro-1602864744.jpg"
+    },
+    {
+      "name": "Applebee's",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://www.nrn.com/sites/nrn.com/files/applebees-storefront.png"
+    },
+    {
+      "id": 25,
+      
+      "name": "Chili's Grill & Bar",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+      
+      
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/a4/b9/e7/chili-s-grill-bar.jpg"
+    }
+
+  ]
