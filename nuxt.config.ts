@@ -1,20 +1,19 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-    css: ['~/assets/css/main.css'],
-    postcss: {
-      plugins: {
-        tailwindcss: {},
-        autoprefixer: {},
-      },
+  css: ["~/assets/css/main.css"],
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
     },
-    modules: ['@vite-pwa/nuxt'],
+  },
+  modules: ["@vite-pwa/nuxt", "nuxt-vitest"],
   pwa: {
     manifest: {
-        name: 'Test',
-        short_name: 'Test',
-        start_url: '/',
-        background_color: "#ff5e3a",
-        
-  }
-}
-  })
+      name: "Test",
+      short_name: "Test",
+      start_url: "/",
+      background_color: "#ff5e3a",
+    },
+  },
+});
